@@ -17,6 +17,7 @@ class Casino {
   }
 }
 
+//tests
 // TESTS
 const myCasino = new Casino("HackerU Casino");
 console.log(myCasino);
